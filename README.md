@@ -1,4 +1,4 @@
-#Jupyter 🧪📘
+# Jupyter 🧪📘
 
 Miscellaneous Jupyter Notebooks ✨
 
